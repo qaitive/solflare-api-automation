@@ -1,4 +1,4 @@
-# API Automtion testing for Solflare using Axios
+# API Automation testing for Solflare using Axios
 
 ## How to use?
 
